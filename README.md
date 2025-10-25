@@ -34,7 +34,7 @@ These two bar charts are designed for active threat hunting.
 This choropleth map uses Splunk's `iplocation` and `geom` commands to visualize the geographic source of all web traffic. This provides instant situational awareness, allowing an analyst to spot anomalies, such as a sudden influx of traffic from a country where the organization does not do business.
 
 ---
-## 🚀 Skills & Technologies Demonstrated
+##  Skills & Technologies Demonstrated
 
 * **Splunk Enterprise:** Dashboard creation, data ingestion, and panel configuration.
 * **Search Processing Language (SPL):** Writing queries using `stats`, `where`, `table`, `iplocation`, and `geom` to analyze and transform data.
