@@ -10,7 +10,7 @@ The final dashboard provides a high-level executive summary combined with granul
 * Are we under attack or being scanned? (Top URIs, Top IPs)
 * Where is this traffic coming from? (GeoIP Map)
 
-<img src=".assets/apache-dashboard.png" width="800" alt="The complete Apache Logs Dashboard in Splunk">
+<img src=".assets/apache-dashboard (2).png" width="800" alt="The complete Apache Logs Dashboard in Splunk">
 *<p align="center">Figure 1: The final dashboard providing a 360-degree view of Apache web server activity.*</p>
 
 ---
